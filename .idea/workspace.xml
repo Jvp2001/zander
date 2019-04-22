@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="238debdd-46dc-44c3-bc04-16d0a7c6f3fe" name="Default Changelist" comment="Should all work">
-      <change afterPath="$PROJECT_DIR$/zander.iml" afterDir="false" />
+    <list default="true" id="238debdd-46dc-44c3-bc04-16d0a7c6f3fe" name="Default Changelist" comment="Hopefully conflicting errors have now gone.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/shadowolfyt/zander/ZanderMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shadowolfyt/zander/ZanderMain.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -130,8 +128,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="489" />
-    <option name="y" value="45" />
+    <option name="x" value="712" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -141,8 +138,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -222,6 +217,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -317,6 +314,7 @@
       <workItem from="1555827862028" duration="4812000" />
       <workItem from="1555842052929" duration="2568000" />
       <workItem from="1555853113356" duration="56000" />
+      <workItem from="1555911167479" duration="306000" />
     </task>
     <task id="LOCAL-00001" summary="Should now work.">
       <created>1555771825995</created>
@@ -381,11 +379,18 @@
       <option name="project" value="LOCAL" />
       <updated>1555832347467</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Hopefully conflicting errors have now gone.">
+      <created>1555911375841</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1555911375841</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8269000" />
+    <option name="totallyTimeSpent" value="8575000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -397,8 +402,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="489" y="45" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="712" y="0" width="974" height="1047" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -409,12 +413,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32618025" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32618025" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.124217115" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.124217115" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="ANTLR Preview" order="7" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -470,7 +474,8 @@
     <option name="SHOW_UNVERSIONED_FILES_WHILE_COMMIT" value="false" />
     <MESSAGE value="Should now work." />
     <MESSAGE value="Should all work" />
-    <option name="LAST_COMMIT_MESSAGE" value="Should all work" />
+    <MESSAGE value="Hopefully conflicting errors have now gone." />
+    <option name="LAST_COMMIT_MESSAGE" value="Hopefully conflicting errors have now gone." />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="editorHistoryManager">
